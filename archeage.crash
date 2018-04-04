@@ -1,0 +1,30 @@
+03:11:00> <CRITICAL EXCEPTION>
+03:11:00> Exception Code: 0xC0000005
+03:11:00> Exception Addr: 0x0023:0x394d8228
+03:11:00> Exception Description: EXCEPTION_ACCESS_VIOLATION
+Attempt to read from address 0xa74149bc
+The memory could not be "read"
+03:11:00> Virtual Memory Usage: 1773Mb
+03:11:00> Dumping X86 registers
+03:11:00> eip=00000000, esp=00000000, ebp=00000000
+03:11:00> edi=00000000, esi=00000000, eax=00000000, ebx=00000000, ecx=00000000, edx=00000000
+03:11:00> =============================================================================
+03:11:00> Starting stack-walking
+03:11:00> function=0x390355e2
+03:11:00> x2game.dll>x2game __unknown__(0):CreateGameStartup()
+03:11:00> x2game.dll>x2game __unknown__(0):CryModuleGetMemoryInfo()
+03:11:00> x2game.dll>x2game __unknown__(0):CryModuleGetMemoryInfo()
+03:11:00> x2game.dll>x2game __unknown__(0):CreateGameStartup()
+03:11:00> function=0x39053f0b
+03:11:00> x2game.dll>x2game __unknown__(0):CreateGame()
+03:11:00> x2game.dll>x2game __unknown__(0):CreateGameStartup()
+03:11:00> x2game.dll>x2game __unknown__(0):CreateGameStartup()
+03:11:00> x2game.dll>x2game __unknown__(0):CreateGame()
+03:11:00> ArcheAge.exe>ArcheAge __unknown__(0):CryModuleGetMemoryInfo()
+03:11:00> ArcheAge.exe>ArcheAge __unknown__(0):CryModuleGetMemoryInfo()
+03:11:00> KERNEL32.DLL>KERNEL32 __unknown__(0):BaseThreadInitThunk()
+03:11:00> ntdll.dll>ntdll __unknown__(0):RtlGetAppContainerNamedObjectPath()
+03:11:00> ntdll.dll>ntdll __unknown__(0):RtlGetAppContainerNamedObjectPath()
+03:11:00> ntdll.dll>ntdll __unknown__(0):RtlGetAppContainerNamedObjectPath()
+03:11:00> Ended stack-walking...
+03:11:00> =============================================================================

@@ -1,0 +1,294 @@
+
+========== LOG HEAD ==========
+[801989E0] BackupNameAttachment=" Build(7) Date(04 April 2018) Time(02 48 56)"  -- used by backup system
+[00000020]  
+[38F38F32] Log Started at #c
+[0232BD25] Running 32 bit version
+[7AB6F5FE] Executable: E:\Games\ArcheRage\bin32\ArcheAge.exe
+[E5C771AC] FileVersion: 3.0.0.7
+[F799D55F] ProductVersion: 3.0.0.7
+[1F1D6B13] Using Microsoft (tm) C++ Standard Library implementation
+[00000020]  
+[C7D96C80] Revision: 321543
+[00000020]  
+[64533E3E] this is the first client
+<02:49:06> [76666E6D] 
+--- CPU detection ---
+<02:49:06> [F4D992D8] CPU: Intel Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz
+<02:49:06> [3F649B02] Family: 6, Model: 14, Stepping: 9
+<02:49:06> [83D12E0B] FPU: On-Chip
+<02:49:06> [50919DA0] CPU Speed (estimated): 2903.915014 MHz
+<02:49:06> [C73FD83A] MMX: not present
+<02:49:06> [89D1077A] SSE: present
+<02:49:06> [DC8C789E] 3DNow!: not present
+<02:49:06> [27B7AC6E] Serial number not present or disabled
+<02:49:06> [1D2D8E5B] Number of logical processors: 4
+<02:49:06> [FA658084] Number of available logical processors: 4
+<02:49:06> [A1F061C2] Invariant Time Stamp Counter : yes
+<02:49:06> [FA0251ED] ---------------------
+
+<02:49:06> [03E7D838] Device Info
+<02:49:06> [9F603516] Device Info - 1
+<02:49:06> [9F603517] Device Info - 2
+<02:49:07> [9F603518] Device Info - 3
+<02:49:07> [9F603519] Device Info - 4
+<02:49:07> [9F60351A] Device Info - 5
+<02:49:07> [9F60351B] Device Info - 6
+<02:49:07> [9F60351C] Device Info - 7
+<02:49:07> [E98ECC28] Video Memory Info
+<02:49:07> [D5FBE664] Video Memory - 1
+<02:49:07> [D5FBE665] Video Memory - 2
+<02:49:07> [D5FBE666] Video Memory - 3
+<02:49:07> [D5FBE667] Video Memory - 4
+<02:49:07> [D5FBE668] Video Memory - 5
+<02:49:07> [D5FBE669] Video Memory - 6
+<02:49:07> [D5FBE66A] Video Memory - 7
+<02:49:07> [D5FBE66B] Video Memory - 8
+<02:49:07> [3A4D54A2][Warning] config/gpu/amd.txt line 55 contains a multiple defined GPU rating!
+<02:49:07> [D20872C0] InitThreadAffinities
+<02:49:07> [2F28A434] UpdateMainThreadAffinity
+<02:49:07> [16962512] Windows 8 64 bit (build 6.2.9200)
+<02:49:07> [F52F25A4] System language: Russian
+<02:49:07> [B4BFF198] Windows Directory: "C:\WINDOWS"
+<02:49:07> [341B54F1] Prerequisites...
+<02:49:07> [5D1B3C9C] * Installation of KB940105 hotfix required: no! (either not needed or already installed)
+<02:49:07> [0357DCB1] Local time is 02:49:07 04/04/18, system running for 5948 minutes
+<02:49:07> [BA8D2551] 12189MB physical memory installed, 7415MB available, 4095MB virtual memory installed, 39 percent of memory in use
+<02:49:07> [31259232] PageFile usage: 
+<02:49:07> [B95F69CC] Current display mode is 1920x1080x32
+<02:49:07> [5F09A04B] Japanese keyboard and 8+ button mouse installed
+<02:49:07> [CE30556B] ----- GPU Detection -----------------
+<02:49:07> [03E7D838] Device Info
+<02:49:07> [9F603516] Device Info - 1
+<02:49:07> [9F603517] Device Info - 2
+<02:49:07> [9F603518] Device Info - 3
+<02:49:07> [9F603519] Device Info - 4
+<02:49:07> [9F60351A] Device Info - 5
+<02:49:07> [9F60351B] Device Info - 6
+<02:49:07> [9F60351C] Device Info - 7
+<02:49:07> [E98ECC28] Video Memory Info
+<02:49:07> [D5FBE664] Video Memory - 1
+<02:49:07> [D5FBE665] Video Memory - 2
+<02:49:07> [D5FBE666] Video Memory - 3
+<02:49:07> [D5FBE667] Video Memory - 4
+<02:49:07> [D5FBE668] Video Memory - 5
+<02:49:07> [D5FBE669] Video Memory - 6
+<02:49:07> [D5FBE66A] Video Memory - 7
+<02:49:07> [D5FBE66B] Video Memory - 8
+<02:49:07> [99EA404A]  NVIDIA GeForce 940MX (vendor = 0x10de, device = 0x134d, subSys = 0x39f117aa)
+<02:49:07> [77718B6A] -- Video memory: 128 MB
+<02:49:07> [30DF1863] -- Minimum SM 2.0 support: yes
+<02:49:07> [13E11956] -- DX11 supported: yes
+<02:49:07> [50B60100] --------------------------------------------------------------------------------
+<02:49:07> [5921EDBE] Stream Engine Initialization
+<02:49:07> [BA0D559B] Splash: Initializing Stream Engine...
+<02:49:07> [939F6EBB] Enable Resolutions : 15
+<02:49:07> [B324CD25] Screen Resolution - 1600x900
+<02:49:07> [3778EA0B] Screen Resolution - 0 (1600x900)
+<02:49:07> [A1B107F0] Screen Resolution - Test OK (1600x900)
+<02:49:07> [A9E4B0F2] Network initialization
+<02:49:07> [BA0D559B] Splash: Initializing Network System...
+<02:49:08> [14FAD233] Socket I/O by iocp
+<02:49:08> [E36A4FB9] Physics initialization
+<02:49:08> [BA0D559B] Splash: Initializing Physics...
+<02:49:08> [2462D581] MovieSystem initialization
+<02:49:08> [BA0D559B] Splash: Initializing Movie System...
+<02:49:08> [93287AEC] Renderer initialization - Start
+<02:49:08> [BA0D559B] Splash: Initializing Renderer...
+<02:49:08> [91207680] Renderer initialization - Open
+<02:49:08> [4377E7CB] Renderer initialization - DLL Load(CryRenderD3D9.dll)
+<02:49:08> [71203A94] Renderer initialization - DLL Done
+<02:49:08> [71227C22] Renderer initialization - DLL Init
+<02:49:08> [C653D9CB] Renderer initialization - Instance
+<02:49:08> [44D9754D] D3D Adapter: Driver name: nvd3dum.dll
+<02:49:08> [82BE8322] D3D Adapter: Driver description: NVIDIA GeForce 940MX
+<02:49:08> [2224501A] D3D Adapter: Driver version: 21.21.13.7892
+<02:49:08> [E8D1E30D] D3D Adapter: Driver GUID: D7B71E3E-500D-11CF-CE6AFC1918C2D835
+<02:49:08> [BC8C1ACB] D3D Adapter: VendorId = 0x10DE
+<02:49:08> [B6A10CFD] D3D Adapter: DeviceId = 0x134D
+<02:49:08> [0678E702] D3D Adapter: SubSysId = 0x39F117AA
+<02:49:08> [F2243F0E] D3D Adapter: Revision = 162
+<02:49:08> [FFF25946] nVidia Driver Version(37892). Name(r378_78)
+<02:49:08> [1B425DA5] Duplicated post effect param! pszName = FilterMaskedBlurring_Amount
+<02:49:08> [1B425DA5] Duplicated post effect param! pszName = FilterMaskedBlurring_MaskTexName
+<02:49:08> [1B425DA5] Duplicated post effect param! pszName = FilterChromaShift_User_Amount
+<02:49:08> [1B425DA5] Duplicated post effect param! pszName = FilterGrain_Amount
+<02:49:08> [E571CFEE] Shader manager initialization
+<02:49:14> [8F6BAA6C][Warning] Couldn't find console variable 'e_water_ocean_fft'
+<02:49:14> [05BAAEF6] CResFile allocations incurred by user cache preload: (1909.61k)
+<02:49:14> [911B73B8] Renderer initialization - Done
+<02:49:14> [8E444EA9] Console initialization
+<02:49:14> [2904A233] Time initialization
+<02:49:14> [3650CFD6] Input initialization
+<02:49:14> [BA0D559B] Splash: Initializing Input System...
+<02:49:14> Initializing Keyboard
+<02:49:14> [99640BF1] Sound initialization
+<02:49:14> [BA0D559B] Splash: Initializing Sound System...
+<02:49:14> [2C33885C] Sound - Initializing AudioDevice now!
+<02:49:14> [E46760A9] <Sound> Initialize FMOD with dynamic memory callbacks
+<02:49:14> [D6755BFD] <Sound> Starting to initialize Windows Audio Session API output! 
+<02:49:14> [F7E8E3CD] <Sound> Drivers found: 2
+<02:49:14> [D58D0259] <Sound> Available drivers:
+	1.	8=0<8:8 (Conexant SmartAudio HD)
+	2.	FaceRig Audio Input Device (FaceRig Virtual Audio Driver)
+<02:49:14> [A0BBF7E1] <Sound> FmodEx-AudioDevice: Now running on driver: 8=0<8:8 (Conexant SmartAudio HD)
+<02:49:14> [14D8EFE1] <Sound> Using speaker mode: FMOD_SPEAKERMODE_STEREO
+<02:49:14> [E79C27E5] <Sound> Initializing FMOD-EX now!
+<02:49:14> [E2A9FE08] <Sound> Available record drivers: 0 FaceRig Virtual Microphone (FaceRig Virtual Audio Driver) !
+<02:49:14> [E2A9FE08] <Sound> Available record drivers: 1 01>@ <8:@>D>=>2 (Conexant SmartAudio HD) !
+<02:49:14> [6841BE38] <Sound> Record config is set to autodetect using record driver 0
+<02:49:14> [7808B4C4] <Sound> Using FMOD version: 00044414 and internal 00044414!
+<02:49:15> [2A2815C7] <Sound> Initialized FMOD-EX
+<02:49:16> [BE4EF52E] Sound - Initializing SoundSystem now!
+<02:49:16> [0D547471] Font initialization
+<02:49:16> [BA0D559B] Splash: Initializing Fonts...
+<02:49:16> [C194F7C8][Warning] Cannot load texture textures/defaults/replacemecm.tif, file missing [File=textures/defaults/replacemecm.dds]
+<02:49:17> [84206398] AI initialization
+<02:49:17> [1BC221DE] Initializing Animation System
+<02:49:17> [BA0D559B] Splash: Initializing Animation System...
+<02:49:17> [9E592EFE] Initializing 3D Engine
+<02:49:17> [BA0D559B] Splash: Initializing 3D Engine...
+<02:49:20> [637AF710][Warning] missing chr material : game/objects/characters/ferre/female/nude/Standard_22.mtl (chr: game/objects/characters/ferre/female/nude/fe_f_base.chr)
+<02:49:28> [7415A452] CHR PreCaching 25 Done
+<02:49:29> [E7AD4E53] AddSharedMorphTargets - Failed to load objects/characters/dwarf/male/face/dw_m_face00.chr
+<02:49:29> [61AD1790] MorphTargetPreCaching - objects/characters/dwarf/male/face/dw_m_face00.chr Add Failed
+<02:49:29> [A4A6E4C6] MorphTarget PreCaching 11 Done
+<02:49:29> [5ACB40E2] Init Face Makers
+<02:49:29> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<02:49:30> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<02:49:30> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<02:49:31> [4ABB03EB] game/objects/characters/ferre/female/face/fe_f_face01_low.chr(303) - objects/characters/ferre/female/face/fe_f_face00.chr(3063) SharedMorph is not matched
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : mouth_UnderbiteOverbite target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : nose_dw_SeptumVol target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : nose_dw_NasalZposition target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dwEarSize target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : dwarf_Morph target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dw_CheekMeat_min target not exist
+<02:49:31> [1191A6A8] X2FaceMaker - game/objects/characters/nuian/male/face/nu_m_face01_mid.chr : FS_dw_CheekMeat_max ex target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Forehead target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Tail_min target not exist
+<02:49:31> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_Tail_max ex target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_WidthLength_min target not exist
+<02:49:31> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_WidthLength_max ex target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_DoubleEyelidShape target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_BrowXposition target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : eye_BrowZposition target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Nostril target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Size target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_SeptumZposition target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_End target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : nose_Size target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_UpperLipVolume target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_LowerLipVolume target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_UpperLipOpen target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_LowerLipOpen target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_MouthOpen target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Size target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Shape_min target not exist
+<02:49:31> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_Shape_max ex target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : mouth_TeethZposition target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_JawHigh_min target not exist
+<02:49:31> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_JawHigh_max ex target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_EarRotate_min target not exist
+<02:49:31> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_EarRotate_max ex target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard1 target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard2 target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/male/face/wa_m_face01_mid.chr : FS_Beard3 target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : eye_Yposition_min target not exist
+<02:49:31> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : eye_Yposition_max ex target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllLowerY target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllRotate target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : FS_AllY target not exist
+<02:49:31> [56B5985B] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : mouth_Open_min target not exist
+<02:49:31> [1191A6A8] X2FaceMaker - game/objects/characters/warborn/female/face/wa_f_face01_mid.chr : mouth_Open_max ex target not exist
+<02:49:32> [E320B5CE] Init Face Makers - Done!
+<02:49:32> [581CA53C] Script System Initialization
+<02:49:32> [BA0D559B] Splash: Initializing Script System...
+<02:49:32> [58F3F7FF][Warning] =?:276: [Lua Error] ?:276: attempt to index global 'Script' (a nil value)
+<02:49:32> [58F3F7FF][Warning] <null>:0: [Lua Error] Failed to execute file @game/scriptsbin/common.alb
+<02:49:32> [D8B2BA54] Entity system initialization
+<02:49:32> [BA0D559B] Splash: Initializing Entity System...
+<02:49:32> [D55F91B2][Warning] [CEntityClassRegistry] LoadClassDescription failed, Entity Class name Chick already registered
+<02:49:32> [BA0D559B] Splash: Initializing AI System...
+<02:49:32> [DA019954] Initializing AI System
+<02:49:32> [2546BCC5] Initializing Budgeting System
+<02:49:32> [C0E19025] Initializing Seamless System
+<02:49:32> [BA0D559B] Splash: Loading Game Data...
+<02:49:35> [90B8EC50][Warning] too many ranges: item_assets descs 31095(31095) threshold 100 ranges 11
+<02:49:36> [937812F7] loaded DDCMS (1242451 descs, 618524 links (23 page 22.75MB size) string) from game\db\compact.sqlite3 in 1749 ms
+<02:49:36> [BA0D559B] Splash: Initializing Game System...
+<02:49:37> [000004EE][Warning] [Lua Error] no localized ui text for 18 always_refund
+<02:49:38> [0ADE3294][Warning] [MFX] Effect 'collisions:grenade' already present. Overriding.
+<02:49:38> [311630D1][Warning] MFX WARNING: Material not found: mat_ice_breakable
+<02:49:38>  
+<02:49:38>    sys_spec = Custom (assuming 4)
+<02:49:38>      option_animation = 1 expected:4
+<02:49:38>    
+========== LOG TAIL ==========
+ning] Cannot load texture game/textures/p_effects/armourdslime_ironpiece_body_ddn4.dds, file missing [File=game/textures/p_effects/armourdslime_ironpiece_body_ddn4.dds]
+<03:08:42> [D7C2E65B][Warning] Error: CShaderMan::mfCreateShaderResources: Couldn't find custom texture 'game/textures/p_effects/armourdslime_ironpiece_body_ddn4.dds' in path '' [File=game/textures/p_effects/armourdslime_ironpiece_body_ddn4.dds]
+<03:08:42> [000004EE][Warning] Particle effect not found: 'game/ability_skill_table.blackmagic.black0009_form', from unknown 
+<03:08:47> [58F3F7FF][Warning] =?:369: [Lua Error] ?:369: attempt to index local 'info' (a nil value)
+<03:08:50> [65FB52A3][Warning] Entity Чудовище тумана:cannot find animation additive_fist_mo_normal_run_f_7
+<03:08:52> [7AB931CE] seamless unloading cell object(W30, 28), (L6, 4)
+<03:08:54> [58F3F7FF][Warning] =?:369: [Lua Error] ?:369: attempt to index local 'info' (a nil value)
+<03:08:57> [7AB931CE] seamless unloading cell object(W30, 27), (L6, 3)
+<03:08:58> [65FB52A3][Warning] Entity Чудовище тумана:cannot find animation additive_fist_mo_normal_run_f_7
+<03:09:02> [58F3F7FF][Warning] =?:369: [Lua Error] ?:369: attempt to index local 'info' (a nil value)
+<03:09:06> [EE46CD89][Warning] Cannot load texture objects/characters/monster/wisp/wisp02_df.dds, file missing [File=objects/characters/monster/wisp/wisp02_df.dds]
+<03:09:06> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/monster/wisp/wisp_forest/picking.mtl)
+<03:09:07> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/female/parts/hm/obj/ha_f_hm_cloth219.mtl (chr: game/objects/characters/hariharan/female/parts/hm/obj/ha_f_1hm144.chr)
+<03:09:14> [58F3F7FF][Warning] =?:369: [Lua Error] ?:369: attempt to index local 'info' (a nil value)
+<03:09:16> [745BAE2F][Warning] failed to stream material xml(game/materials/effects/fume_h_ssd.mtl)
+<03:09:20> [58F3F7FF][Warning] =?:369: [Lua Error] ?:369: attempt to index local 'info' (a nil value)
+<03:09:29> [B866A294] seamless unloading cell terrain(W31, 29), (L7, 5)
+<03:09:31> [B866A294] seamless unloading cell terrain(W31, 26), (L7, 2)
+<03:09:32> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/hariharan/male/parts/hm/obj/ha_m_hm_leather052.mtl)
+<03:09:32> [637AF710][Warning] missing chr material : game/objects/characters/hariharan/male/parts/hm/obj/ha_m_hm_leather052.mtl (chr: game/objects/characters/hariharan/male/parts/hm/obj/ha_m_1hm131.chr)
+<03:09:33> [04FA8364][Warning] Cannot load texture game/objects/characters/nuian/male/hair/hair_texture/, file missing [File=game/objects/characters/nuian/male/hair/hair_texture/]
+<03:09:33> [F724A392][Error] CryAnimation:: Trying to load animation with alias "fist_ba_relaxed_idle_rand_3" from file "animations/monster/yata/fist/fist_ba_relaxed_idle_rand_3.caf" into the animation container. Such animation alias already exists and uses file "animations/monster/yata/fist/fist_ba_relaxed_idle_rand_1.caf". Please use another animation alias.
+<03:09:43> [000004EE][Warning] Particle effect not found: 'game/ability_skill_table_k.p_skill_love.partyhill_form_sound', from unknown 
+<03:09:43> [DE0DD398][Warning] test ik bone is not right(Bip01 R Forearm)
+<03:09:43> [14C85809][Error] AttachObjectToBone is called for bone "item_back_r", which is not in the model "game/objects/characters/monster/yaksa/yaksa_shaman/yaksa_shaman.chr". Ignoring, but this may cause a crash because the corresponding object won't be detached after it's destroyed
+<03:09:49> [14C85809][Error] AttachObjectToBone is called for bone "item_back_r", which is not in the model "game/objects/characters/monster/yaksa/yaksa_shaman/yaksa_shaman.chr". Ignoring, but this may cause a crash because the corresponding object won't be detached after it's destroyed
+<03:09:49> [B866A294] seamless unloading cell terrain(W31, 28), (L7, 4)
+<03:09:52> [B866A294] seamless unloading cell terrain(W31, 27), (L7, 3)
+<03:09:53> [7AB931CE] seamless unloading cell object(W28, 30), (L4, 6)
+<03:09:55> [14C85809][Error] AttachObjectToBone is called for bone "item_back_r", which is not in the model "game/objects/characters/monster/yaksa/yaksa_shaman/yaksa_shaman.chr". Ignoring, but this may cause a crash because the corresponding object won't be detached after it's destroyed
+<03:10:10> [63ABB424][Warning] Facial sequence "fist_ba_combat_idle_rand_4" not listed in CAL file for character "game/objects/characters/warborn/female/nude/wa_f_base.chr".
+<03:10:17> [7AB931CE] seamless unloading cell object(W29, 29), (L5, 5)
+<03:10:19> [7AB931CE] seamless unloading cell object(W29, 26), (L5, 2)
+<03:10:19> [BB790A81] origin change campos : 3071.95, 4089.549805
+<03:10:19> [00000020]  
+<03:10:19> [00000020]  
+<03:10:19> [A581FA6D] -----------------------------------------------------------------------------
+<03:10:19> [1DAA5677] SeamlessSystem::ChangeOrigin() : Here we go. Old(24,2) -> New(23,2)
+<03:10:19> [A581FA6D] -----------------------------------------------------------------------------
+<03:10:19> [00000020]  
+<03:10:19> [00000020]  
+<03:10:19> [7B1A973B] seamless loading cell terrain(W23, 5), (L0, 3)
+<03:10:19> [3EF08C47] seamless loading cell object(W24, 5), (L1, 3)
+<03:10:19> [1054BE80][Warning] WaterVolume Origin Change error : Err(-1024.0, 0.0), CurrPos(27441.4, 6929.2), Origin Frame(1, 2)
+<03:10:19> [7B1A973B] seamless loading cell terrain(W23, 6), (L0, 4)
+<03:10:19> [3EF08C47] seamless loading cell object(W24, 6), (L1, 4)
+<03:10:19> [7B1A973B] seamless loading cell terrain(W23, 4), (L0, 2)
+<03:10:19> [7B1A973B] seamless loading cell terrain(W23, 7), (L0, 5)
+<03:10:19> [7AB931CE] seamless unloading cell object(W28, 24), (L5, 1)
+<03:10:19> [000004EE][Warning] [CGF Error] game/objects/env/02_harihara/001_hcom/hcom_cart_b.cgf [:] LOD1 of geometry hcom_cart_b contains too many polygons comparing to the LOD0 [770 against 1114] :
+<03:10:22> [B866A294] seamless unloading cell terrain(W30, 24), (L7, 1)
+<03:10:23> [14C85809][Error] AttachObjectToBone is called for bone "item_back_r", which is not in the model "game/objects/characters/monster/yaksa/yaksa_shaman/yaksa_shaman.chr". Ignoring, but this may cause a crash because the corresponding object won't be detached after it's destroyed
+<03:10:25> [B866A294] seamless unloading cell terrain(W30, 29), (L7, 6)
+<03:10:27> [B866A294] seamless unloading cell terrain(W29, 30), (L6, 7)
+<03:10:32> [14C85809][Error] AttachObjectToBone is called for bone "item_back_r", which is not in the model "game/objects/characters/monster/yaksa/yaksa_shaman/yaksa_shaman.chr". Ignoring, but this may cause a crash because the corresponding object won't be detached after it's destroyed
+<03:10:33> [7B1A973B] seamless loading cell terrain(W23, 3), (L0, 1)
+<03:10:37> [58F3F7FF][Warning] =?:369: [Lua Error] ?:369: attempt to index local 'info' (a nil value)
+<03:10:39> [745BAE2F][Warning] failed to stream material xml(game/materials/effects/fume_h_ssd.mtl)
+<03:10:39> [7B1A973B] seamless loading cell terrain(W24, 2), (L1, 0)
+<03:10:41> [3EF08C47] seamless loading cell object(W24, 4), (L1, 2)
+<03:10:44> [7B1A973B] seamless loading cell terrain(W23, 8), (L0, 6)
+<03:10:48> [14C85809][Error] AttachObjectToBone is called for bone "item_back_r", which is not in the model "game/objects/characters/monster/yaksa/yaksa_shaman/yaksa_shaman.chr". Ignoring, but this may cause a crash because the corresponding object won't be detached after it's destroyed
+<03:10:48> [3EF08C47] seamless loading cell object(W24, 7), (L1, 5)
+<03:10:48> [7B1A973B] seamless loading cell terrain(W24, 9), (L1, 7)
+<03:10:56> [3EF08C47] seamless loading cell object(W25, 3), (L2, 1)
+<03:10:57> [14C85809][Error] AttachObjectToBone is called for bone "item_back_r", which is not in the model "game/objects/characters/monster/yaksa/yaksa_shaman/yaksa_shaman.chr". Ignoring, but this may cause a crash because the corresponding object won't be detached after it's destroyed
+<03:10:58> [745BAE2F][Warning] failed to stream material xml(game/objects/characters/ferre/male/costume/fe_m_sk_lord009/fe_m_sk_lord009_brop01.mtl)
